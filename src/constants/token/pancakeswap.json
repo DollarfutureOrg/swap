@@ -1,0 +1,45 @@
+{
+  "name": "DLF",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "Dollar",
+      "symbol": "DLF",
+      "address": "0x942Ed7dfA2a564984747420D47C4f49c2b3140F9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/Bc8Y9Sg/Group-74nbebf.png"
+    },
+    {
+      "name": "Dollar",
+      "symbol": "DLF - OLD",
+      "address": "0x654b25ffdfdb675bbc47425bfe3ac8900cd4f6f3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/Bc8Y9Sg/Group-74nbebf.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
